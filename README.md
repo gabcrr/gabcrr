@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Carreiro
+## 👋 Olá, eu sou o Gabriel Carreiro!
 
 ## 📍 Sobre mim
 
@@ -37,7 +37,6 @@
 </div>
 
 ## 📫 Onde me encontrar
-
 <div>
   <a href="mailto:glimacarreiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-carreiro-080530231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
